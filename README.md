@@ -6,4 +6,5 @@
 - Major: Information Technology
 - GitHub: gireepuzan-pro
 - I am learning Git and GitHub through my Open Source Software course.
-I am practising version control using Git.
+  I am practising version control using Git.
+  Run: python tools/hello_tabulate.py --name Pujan
